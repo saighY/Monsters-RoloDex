@@ -1,0 +1,10 @@
+**/node_modules/
+**/coverage/
+/packages/**/lib/*.js
+/packages/**/lib-esm/*.js
+/packages/**/lib-esm/**/*.js
+/packages/**/lib/**/*.js
+**/lib-esm/
+**/lib/
+**/build
+**/*js
